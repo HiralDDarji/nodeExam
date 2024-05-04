@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2",
+    "express-validator": "^7.0.1",
+    "jsonwebtoken": "^9.0.2",
+    "multer": "^1.4.5-lts.1",
+    "mysql2": "^3.9.7",
+    "nodemon": "^3.1.0",
+    "sequelize": "^6.37.3"
+  },
+  "name": "nodeexam",
+  "version": "1.0.0",
+  "description": "This is node practical exam",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "Hiral D Darji",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HiralDDarji/nodeExam/issues"
+  },
+  "homepage": "https://github.com/HiralDDarji/nodeExam#readme"
+}
